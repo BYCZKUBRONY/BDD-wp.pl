@@ -1,2 +1,2 @@
 # BDD-wp.pl
-Test with use bahave.
+Test use bahave.
